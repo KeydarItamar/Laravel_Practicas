@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>holaa</h1>
+    <h1>Hola signin</h1>
+    <h2>La frase es : <?php echo e($fraseVista); ?></h2>
 </body>
 </html><?php /**PATH /app/resources/views/signin.blade.php ENDPATH**/ ?>

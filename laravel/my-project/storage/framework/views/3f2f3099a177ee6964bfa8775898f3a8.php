@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Adeeeeeu</h1>
+    <h1>holaa</h1>
 </body>
-</html><?php /**PATH /app/resources/views/sigup.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /app/resources/views/signin.blade.php ENDPATH**/ ?>
